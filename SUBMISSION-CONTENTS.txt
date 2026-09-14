@@ -1,0 +1,10 @@
+﻿Paraspara submission package
+
+Included:
+- backend source (FastAPI and agent service)
+- dist browser build and assets
+- README, dependency list, launcher, licence, and safe configuration example
+- architecture documentation and diagram
+
+Excluded by design:
+- .git, .openai, .venv, data, .env, __pycache__, credentials, and local-only files
